@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\obj\Debug\net8.0\TiemBanhApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\obj\Debug\net8.0\TiemBanhApp.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\obj\Debug\net8.0\TiemBanhApp.AssemblyInfo.cs
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\obj\Debug\net8.0\TiemBanhApp.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\bin\Debug\net8.0\TiemBanhApp.exe
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\bin\Debug\net8.0\TiemBanhApp.deps.json
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\bin\Debug\net8.0\TiemBanhApp.runtimeconfig.json
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\bin\Debug\net8.0\TiemBanhApp.dll
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\bin\Debug\net8.0\TiemBanhApp.pdb
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\obj\Debug\net8.0\TiemBanhApp.dll
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\obj\Debug\net8.0\refint\TiemBanhApp.dll
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\obj\Debug\net8.0\TiemBanhApp.pdb
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\obj\Debug\net8.0\TiemBanhApp.genruntimeconfig.cache
+C:\Users\x\source\repos\TiemBanhApp\TiemBanhApp\obj\Debug\net8.0\ref\TiemBanhApp.dll
